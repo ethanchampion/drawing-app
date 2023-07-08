@@ -35,7 +35,7 @@
   - This could include a filter that changes colour based on contrast, or a black and white filter.
 - Colour Picker
   - Allows the user to select a pixel on the canvas and set the colour of that pixel as the selected colour.
-Text Tool
+- Text Tool
   - This will be a tool to add text wherever the user clicks.
   - The user could be able to change size and font depending on capabilities or JavaScript.
 - Rotate / Flip / Crop
