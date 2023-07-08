@@ -2,24 +2,24 @@ Drawing Application
 
 List of ideas currently implemented:
 
-rectangle / ellipse tool⁺                            
+rectangle / ellipse tool⁺
     -Draws a rectangle or ellipse from the position where the mouse is clicked to where it is let go.
-    -with a fill or outline selector⁺⁺                    
+    -with a fill or outline selector⁺⁺
         -Allows user to toggle between an outline or solid colour.
-stamp tool⁺                                    
+stamp tool⁺
     -Prints a preset design at the point of mouse click.
-Eraser⁺                                    
+Eraser⁺
     -This feature will erase wherever the user drags. It has increased width compared to other tools.
-load button⁺⁺                                    
-    -Creates a button on the top of the screen which opens file explorer. The user can then load an image of their choosing to the canvas. 
+load button⁺⁺
+    -Creates a button on the top of the screen which opens file explorer. The user can then load an image of their choosing to the canvas.
     This button is created in the html and the function is contained in the helper functions file.
-star trail⁺⁺                                    
+star trail⁺⁺
     -Creates a star trail wherever the user drags, of varying sizes.
-scissors tool⁺⁺⁺                                
+scissors tool⁺⁺⁺
     =Allows user to select an area of the canvas to be cleared.
-blur tool⁺⁺⁺                                    
+blur tool⁺⁺⁺
     -This tool blurs an area in a set radius in an ellipse shape. It takes the colours surrounding the mouse and blurs them into an average colour. This can be dragged to blur large areas.
-spirograph tool⁺⁺⁺                                
+spirograph tool⁺⁺⁺
     -Repeats what is drawn at regular intervals around the middle of the canvas.
 
 Future features to include:
@@ -45,7 +45,7 @@ Rectangle tool
 Ellipse tool
 
 Complete:
-Rectangle tool 
+Rectangle tool
 Ellipse tool
 
 
